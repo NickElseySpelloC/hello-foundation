@@ -23,6 +23,7 @@ wheels/
 /*.txt
 /*.json
 /*.csv
+/*.log
 config.yaml
 logs/
 archive/
